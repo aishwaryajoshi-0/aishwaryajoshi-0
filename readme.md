@@ -5,7 +5,7 @@ Currently working on [AI- Driven Resume Shortlisting and Weather Forecasting ], 
 
 ## 💻 Tech Stack
 
-- **Languages:** Java, Python, C++, C , DSA , DAA
+- **Languages:** Java, Python, C++, C ...
 
 ## 📫 Let's connect
 
